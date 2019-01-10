@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Vinay Godaba",
+        "age": "18",
+        "height": "178",
+        "gender": "male",
+        "hair_color": "black"
+    },
+
+    {
+        "name": "Sampath Balivada",
+        "age": "18",
+        "height": "165",
+        "gender": "male",
+        "hair_color": "black"
+    },
+
+    {
+        "name": "Surya Bhai",
+        "age": "18",
+        "height": "180",
+        "gender": "male",
+        "hair_color": "black with green stripe"
+    },
+
+    {
+        "name": "Gireesh",
+        "age": "18",
+        "height": "179",
+        "gender": "male",
+        "hair_color": "black with coconut fibres"
+    }
+]
